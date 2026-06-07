@@ -1,0 +1,11 @@
+[package]
+name = "particle-swarm"
+version = "0.1.0"
+edition = "2021"
+description = "Particle swarm optimization with multiple topologies, inertia strategies, and multi-objective support"
+license = "MIT"
+repository = "https://github.com/SuperInstance/particle-swarm"
+keywords = ["particle-swarm", "optimization", "pso", "algorithms"]
+categories = ["algorithms", "science"]
+
+[dependencies]
